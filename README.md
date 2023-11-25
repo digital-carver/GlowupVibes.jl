@@ -20,6 +20,10 @@ Here's a little demo of what you can do with this package:
 | @error | @yeetL 
 | Error("my message") | Cringe("my message") 
 
+---
+## TODO 
+
+* Find uses for: `lowkey` `istg` `ngl` `bruh` `AndForWhat` `rn` (maybe `now()`) 
 ___
 A code example:
 
